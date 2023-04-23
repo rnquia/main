@@ -1,0 +1,44 @@
+body
+	{
+	align: center;
+	}
+
+#a1
+	{
+	text-align: center;
+	border: 3px;
+        border-style: solid;
+        border-color: #353535;
+	border-radius: 8px;
+	width: 160px;
+	}
+
+#a2
+	{
+	text-align: center;
+	border: 3px;
+        border-style: solid;
+        border-color: #353535;
+	border-radius: 8px;
+	width: 210px;
+	}
+
+#a3
+	{
+	text-align: center;
+	border: 3px;
+        border-style: solid;
+        border-color: #353535;
+	border-radius: 8px;
+	width: 150px;
+	}
+
+#a4
+	{
+	text-align: center;
+	border: 3px;
+        border-style: solid;
+        border-color: #353535;
+	border-radius: 8px;
+	width: 100px;
+	}
